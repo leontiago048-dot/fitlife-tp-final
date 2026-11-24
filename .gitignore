@@ -1,0 +1,19 @@
+# Dependencias y entornos
+node_modules/
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporales y logs
+*.log
+*.tmp
+dist/
+build/
+coverage/
